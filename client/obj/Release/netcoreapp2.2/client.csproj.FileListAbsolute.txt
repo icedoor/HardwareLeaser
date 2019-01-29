@@ -1,0 +1,11 @@
+C:\Users\Isadora\Desktop\DiceTest\client\bin\Release\netcoreapp2.2\client.deps.json
+C:\Users\Isadora\Desktop\DiceTest\client\bin\Release\netcoreapp2.2\client.runtimeconfig.json
+C:\Users\Isadora\Desktop\DiceTest\client\bin\Release\netcoreapp2.2\client.runtimeconfig.dev.json
+C:\Users\Isadora\Desktop\DiceTest\client\bin\Release\netcoreapp2.2\client.dll
+C:\Users\Isadora\Desktop\DiceTest\client\bin\Release\netcoreapp2.2\client.pdb
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.csprojAssemblyReference.cache
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.csproj.CoreCompileInputs.cache
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.AssemblyInfoInputs.cache
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.AssemblyInfo.cs
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.dll
+C:\Users\Isadora\Desktop\DiceTest\client\obj\Release\netcoreapp2.2\client.pdb
