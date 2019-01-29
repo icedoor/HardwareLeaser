@@ -23,13 +23,11 @@ docker build -t client .
 From the client directory:
 ```
 docker run client
-docker run client <arguments>
-```
 
-Valid arguments for client:
-machines 
-machines <platform>
-add <ip> <name> <platform>
-lease <platform> <minutes>
-leases
-help
+docker run client machines
+docker run client machines <platform>
+docker run client add <ip> <name> <platform>
+docker run client lease <platform> <minutes>
+docker run client leases
+docker run client help
+```
