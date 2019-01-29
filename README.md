@@ -1,25 +1,25 @@
 # Hardware Leaser
 A service for hardware leasing and a CLI application to interact with it.
 
-##Server:
-###Build:
+## Server:
+### Build:
 From the server directory:
 ```
 docker build -t server .
 ```
-###Run:
+### Run:
 From the server directory:
 ```
 docker run -p 5000:80 server
 ```
 
-##Client:
-###Build:
+## Client:
+### Build:
 From the client directory:
 ```
 docker build -t client .
 ```
-###Run:
+### Run:
 From the client directory:
 ```
 docker run client
